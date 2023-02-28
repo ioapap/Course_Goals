@@ -1,0 +1,2 @@
+<h1>Course Goals React App</h1>
+<p>This is a simple React app created to practice styling React components. It functions like a to-do app, where you can add course goals by typing them into a form and clicking the "Add Goal" button. The new goal will appear in a list below the form. If you click on a goal, it will be deleted from the list.</p>
